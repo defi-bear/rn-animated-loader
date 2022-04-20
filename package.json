@@ -1,0 +1,42 @@
+{
+  "name": "rn-animated-loader",
+  "version": "1.0.0",
+  "description": "Several animated loaders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shing-Ho/rn-animated-loader.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "spinner",
+    "animated loader",
+    "loader",
+    "animation",
+    "animated",
+    "animation loader",
+    "animated spinner",
+    "animated spinner loader",
+    "animated spinner loader component",
+    "animated spinner loader component for react native"
+  ],
+  "author": "Shing Ho Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shing-Ho/rn-animated-loader/issues"
+  },
+  "homepage": "https://github.com/Shing-Ho/rn-animated-loader",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.70.1"
+  }
+}
